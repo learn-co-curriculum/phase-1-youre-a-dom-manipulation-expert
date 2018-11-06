@@ -6,8 +6,8 @@
 - Show how the DOM can be manipulated with Chrome DevTools
 
 ## Introduction
-As a student on Learn, by now you have spent some time on the internet and have had a little exposure to social media sites, either on your own or through a few school projects. Almost all social media sites have a "like" button that takes the form of a heart. When you click it, it fills in. 
-*insert appropriate gif here*
+As a student on Learn, by now you have spent some time on the internet and have had a little exposure to social media sites, either on your own or through a few school projects. Almost all social media sites have a "like" button. When you click it, some form of animation occurs. 
+![Everyone Likes you](https://media.giphy.com/media/nbQhrNzt8tSqaKwhRt/giphy.gif)
 
 This is accomplished using JavaScript manipulating the DOM!
 
