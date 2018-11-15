@@ -24,5 +24,3 @@ we're already familiar with.
 
 The important part is that you've mastered the first pillar. Two more down and
 you're going to be building the rich web applications of your dreams!
-
-![Become the Web Dev Master](https://media.giphy.com/media/8FhZhwMwalKvwis9v5/giphy.gif)
