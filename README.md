@@ -5,7 +5,7 @@
 Remember our "Simple Liker" program. In it we saw that front end web
 programming is using three "pillars" working together:
 
-- Manipulating the DOM
+- &#x2611; Manipulating the DOM
 - Recognizing JavaScript events
 - Communicate with the server
 
