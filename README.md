@@ -1,28 +1,26 @@
 # You're a DOM Manipulation Master
 
-## Learning Goals
+## Reflect
 
-- Show how JavaScript can affect the DOM
-- Show how the DOM can be manipulated with Chrome DevTools
+Remember our "Simple Liker" program. In it we saw that front end web
+programming is using three "pillars" working together:
 
-## Introduction
-As a student on Learn, by now you have spent some time on the internet and have had a little exposure to social media sites, either on your own or through a few school projects. Almost all social media sites have a "like" button. When you click it, some form of animation occurs. 
-![Everyone Likes you](https://media.giphy.com/media/nbQhrNzt8tSqaKwhRt/giphy.gif)
+- Manipulating the DOM
+- Recognizing JavaScript events
+- Communicate with the server
 
-This is accomplished using JavaScript manipulating the DOM!
+This whole unit has been about gaining the skills required to **Manipulate the
+DOM**. Since you can now update web pages using JavaScript, you can communicate
+things to users like "You've liked this message" by changing the appearance of
+the web page they're looking at.
 
-## Show how JavaScript can affect the DOM
-- Show how JavaScript can affect the DOM
-(From the outline in Airtable)
-* With these skills you're able to update the interface, the browser, by changing the DOM JavaScript. You have the first pillar under your belt
-* You can change a heart element from liked to unliked, you can change multiple components of the screen,
+## Next Step
 
-## Show how the DOM can be manipulated with Chrome DevTools
-- Show how the Dom can be manpulated with Chrom DevTools
-- Put together a couple simple examples for them to try
+But...obviously most people don't interact with web pages by opening up the
+Chrome DevTools console and writing JavaScript commands. If we could tell the
+web page to do that work when some event happens (click of an image, double
+click inside of a square, etc.) we'd be closer to the web experiences that
+we're already familiar with.
 
-(From the outline in Airtable)
-* But now you're driving those changes from the Console. We want to know how to do the same thing but based on an event. To accomplish this, you need to learn to wire up your changes to be the effect of an event happening. That's our next section!
-
-## Conclusion
-As you can see, JavaScript is a simple and powerful resource that you can use in your toolkit. When paired with HTML and CSS, it can create a seamless and fun experience for your end user.
+The important part is that you've mastered the first pillar. Two more down and
+you're going to be building the rich web applications of your dreams!
