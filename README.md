@@ -1,4 +1,4 @@
-# You're a DOM Manipulation Master
+# You're a DOM Manipulation Expert, Now!
 
 ## Reflect
 
@@ -18,9 +18,9 @@ the web page they're looking at.
 
 But...obviously most people don't interact with web pages by opening up the
 Chrome DevTools console and writing JavaScript commands. If we could tell the
-web page to do that work when some event happens (click of an image, double
-click inside of a square, etc.) we'd be closer to the web experiences that
-we're already familiar with.
+web page to do that work when some event happens (clicking an image, double
+clicking inside a square, etc.) we'd be closer to the web experiences that we're
+already familiar with.
 
 The important part is that you've mastered the first pillar. Two more down and
 you're going to be building the rich web applications of your dreams!
