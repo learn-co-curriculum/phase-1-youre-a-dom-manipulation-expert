@@ -1,4 +1,4 @@
-# You're a DOM Manipulation Expert, Now!
+# You're a DOM Manipulation Expert Now!
 
 ## Reflect
 
